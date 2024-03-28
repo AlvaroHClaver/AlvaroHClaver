@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/alvaro-hibide-5414a3269?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app](https://www.linkedin.com/in/alvaro-hibide-5414a3269?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
-- ⚡ Fun fact **I am also a DJ and an avgeek ✈️.**
+- ⚡ Fun fact **I am also a DJ 💿 and an avgeek ✈️.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
