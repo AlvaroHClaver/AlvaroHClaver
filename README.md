@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Alvaro</h1>
 <h3 align="center">Passionate Brazilian🇧🇷 Developer: Building with React, Node.js, Next.js and Spring Boot</h3>
 
-- 🔭 I’m currently working on [Oriente 2.0](https://mackleaps.mackenzie.br/oriente/)
+- 🔭 I’m currently working on [MackEdoc](https://mackedoc.mack.com.br)
 
 - 🌱 I’m currently learning **NextJS and Angular**
 
-- 🤝 I’m looking for help with [Spring Boot Framework](https://github.com/AlvaroHClaver/CRUD-API-with-JWT)
-
 - 👨‍💻 All of my projects are available at [https://github.com/AlvaroHClaver](https://github.com/AlvaroHClaver)
 
-- 📝 I regularly write articles on [https://lab-mackleaps.gitbook.io/residencia-de-software-macklaeps-upm-fci/](https://lab-mackleaps.gitbook.io/residencia-de-software-macklaeps-upm-fci/)
+- 📝 I regularly write articles on [Medium](https://medium.com/@alvarohibide)
 
 - 💬 Ask me about **React and Node.jS**
 
